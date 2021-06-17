@@ -1,6 +1,6 @@
 ### Hola humanx 👋
 
-_Creo que toda la tecnología debería ser **libre** e intento promoverlo desde los espacios que habito._
+_Creo que la tecnología debería ser libre y accesible para todo el mundo, e intento promoverlo desde los espacios que habito._
 
 Te invito a seguir mi proyecto llamado **El Sur también programa 🌎**:
 
